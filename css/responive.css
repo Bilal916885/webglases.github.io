@@ -1,0 +1,2014 @@
+@media screen and (max-width:1440px) {
+    
+    .container .pictrs-sec #lft{
+        background-image: url(../imgaes/pic3.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 53vw;
+        transform: translateY(-80px);
+    }
+        
+    
+    .container .pictrs-sec #rght{
+        background-image: url(../imgaes/g2.png);
+        background-size: cover;
+        background-position: center;
+        height: 645px;
+        width: 30vw;
+        text-align: center;
+        padding: 1rem;
+        display: flex;
+        gap: 1rem;
+        padding-right: -2rem;
+        transform: translateY(-80px);
+    }
+    .container .pictrs-sec #lft .teext{
+        transform: translateY(170px);
+        float: right;
+       
+    }
+    .container .pictrs-sec #lft .text p{
+        font-size:1.5rem;
+        font-weight: 400;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        margin-right: 80px;
+        width: 300px;
+    }
+    .container .pictrs-sec #lft button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border-left: 1px solid #fff;
+        width: 220px;
+        height: 50px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1rem;
+        margin-top: 1rem;
+        
+    }
+    .container .pictrs-sec #lft button i{
+        transform: translateX(70px);
+        font-size: 1.3rem;
+    }
+    
+    .container .pictrs-sec #rght .text{
+        transform: translateY(350px);
+        float: right;
+    
+    }
+    .container .pictrs-sec #rght .text p{
+        font-size:1.5rem;
+        font-weight: 400;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        margin-left: -10px;
+        margin: auto;
+        width: 350px;
+    }
+    
+    .container .pictrs-sec #rght button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border-top: 1px solid #fff;
+        border-right: 1px solid #fff;
+        border-bottom: 1px solid #fff;
+        width: 210px;
+        height: 60px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1rem;
+        margin-top: 1rem;
+        
+    }
+    .container .pictrs-sec #rght button i{
+        transform: translateX(30px);
+        font-size: 1.3rem;
+    }
+    .brnds-name .container .box {
+        /* width:18vw; */
+        width:18vw;
+        height: 18.6vw;
+        border: 1px solid gray;
+        text-align: center;
+        display: flex;
+        align-items: center;
+    
+       }
+    }
+    /* -----------1210------------------ */
+
+@media screen and (max-width:1199px) {
+
+    
+.container .pictrs-sec #lft{
+    background-image: url(../imgaes/pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 50vw;
+    transform: translateY(-80px);
+}
+    
+
+.container .pictrs-sec #rght{
+    background-image: url(../imgaes/g2.png);
+    background-size: cover;
+    background-position: center;
+    height: 645px;
+    width: 350px;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    padding-right: -2rem;
+    transform: translateY(-80px);
+}
+.container .pictrs-sec #lft .text{
+    transform: translateY(90px);
+    float: right;
+
+}
+.container .pictrs-sec #lft .text p{
+    font-size:1.5rem;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    margin-right: 80px;
+    width: 300px;
+}
+.container .pictrs-sec #lft button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-left: 1px solid #fff;
+    width: 220px;
+    height: 50px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    margin-top: 1rem;
+    
+}
+.container .pictrs-sec #lft button i{
+    transform: translateX(70px);
+    font-size: 1.3rem;
+}
+
+.container .pictrs-sec #rght .text{
+    transform: translateY(350px);
+    float: right;
+
+}
+.container .pictrs-sec #rght .text p{
+    font-size:1.5rem;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    margin-left: 60px;
+    margin: auto;
+    width: 320px;
+}
+
+.container .pictrs-sec #rght button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 210px;
+    height: 60px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    
+    
+}
+.container .pictrs-sec #rght button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+.brnds-name .container .box {
+    /* width:18vw; */
+    width:17vw;
+    height: 19.6vw;
+    border: 1px solid gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+   }
+   .container .scop-sec .inr-sec {
+    background-image: url(../imgaes/scp.png);
+    background-size: cover;
+    background-position: center;
+    width: 27vw;
+    height: 310px;
+    text-align: center;
+   }
+   .container .scop-sec #inr-secc {
+    background-image: url(../imgaes/scp1.png);
+    background-size: cover;
+    background-position: center;
+    width: 27vw;
+    height: 310px;
+    text-align: center;
+
+}
+
+}
+
+/* ---------------------1024--------------------------- */
+@media screen and (max-width:1024px) {
+ .container .pictrs-sec #lft{
+            background-image: url(../imgaes/pic3.jpg);
+            background-size: cover;
+            background-position: center;
+            height: 400px;
+            width: 59vw;
+            transform: translateY(-80px);
+        }
+            
+.container .pictrs-sec #rght{
+            background-image: url(../imgaes/g2.png);
+            background-size: cover;
+            background-position: center;
+            height: 645px;
+            width: 30vw;
+            text-align: center;
+            padding: 1rem;
+            display: flex;
+            gap: 1rem;
+            padding-right: -2rem;
+            transform: translateY(-80px);
+        }
+        .container .pictrs-sec #lft .text{
+            transform: translateY(90px);
+            float: right;
+        
+        }
+        .container .pictrs-sec #lft .text p{
+            font-size:1.5rem;
+            font-weight: 400;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            margin-right: 80px;
+            width: 300px;
+        }
+        .container .pictrs-sec #lft button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border-left: 1px solid #fff;
+            width: 220px;
+            height: 50px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 1rem;
+            margin-top: 1rem;
+            
+        }
+        .container .pictrs-sec #lft button i{
+            transform: translateX(70px);
+            font-size: 1.3rem;
+        }
+        
+        .container .pictrs-sec #rght .text{
+            transform: translateY(370px);
+            float: right;
+        
+        }
+        .container .pictrs-sec #rght .text p{
+            font-size:1.5rem;
+            font-weight: 400;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            /* margin-left: -10px; */
+            margin: auto;
+            width: 280px;
+        }
+        
+        .container .pictrs-sec #rght button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border-top: 1px solid #fff;
+            border-right: 1px solid #fff;
+            border-bottom: 1px solid #fff;
+            width: 210px;
+            height: 60px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 1rem;
+            margin-top: 1rem;
+            
+        }
+        .container .pictrs-sec #rght button i{
+            transform: translateX(30px);
+            font-size: 1.3rem;
+        }
+        .main .container .banr-sec{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 3rem;
+            margin-top: 120px;
+        
+        
+        }
+.main{
+            width: 100%;
+             /* background-color: #F9F3F3;  */
+            /* background-color: red; */
+            background-color: #f1ebe5;
+            min-height: 67vw;
+        
+
+        }
+ .brnds-name .container .box img{
+            width: 10vw;
+            align-items: center;
+            /* padding-top: 5rem; */
+            margin: auto;
+        
+           }
+    .brnds-name{
+            background-color: #e5e5e5;
+            text-align: center;
+            margin-top: 10rem;
+            height: 38vw;
+           }
+        
+
+               
+           }
+           .container .pictrs-sec #lft button i{
+               transform: translateX(70px);        }
+
+
+/* ---------------------1007--------------------------- */
+@media screen and (max-width:1007px) {
+    .container .pictrs-sec #lft{
+               background-image: url(../imgaes/pic3.jpg);
+               background-size: cover;
+               background-position: center;
+               height: 400px;
+               width: 58vw;
+               transform: translateY(-80px);
+           }
+               
+   .container .pictrs-sec #rght{
+               background-image: url(../imgaes/g2.png);
+               background-size: cover;
+               background-position: center;
+               height: 645px;
+               width: 28vw;
+               text-align: center;
+               padding: 1rem;
+               display: flex;
+               gap: 1rem;
+               padding-right: -2rem;
+               transform: translateY(-80px);
+           }
+           .container .pictrs-sec #lft .text{
+               transform: translateY(90px);
+               float: right;
+           
+           }
+           .container .pictrs-sec #lft .text p{
+               font-size:10vw;
+               font-weight: 400;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               margin-right: 80px;
+               width: 300px;
+           }
+           .container .pictrs-sec #lft button{
+               border: none;
+               outline: none;
+               background-color: transparent;
+               border-left: 1px solid #fff;
+               width: 220px;
+               height: 50px;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               font-size: 1rem;
+               margin-top: 1rem;
+               font-size: 1.3rem;
+           }
+           
+           .container .pictrs-sec #rght .text{
+               transform: translateY(370px);
+               float: right;
+           
+           }
+           .container .pictrs-sec #rght .text p{
+               font-size:20vw;
+               font-weight: 400;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               /* margin-left: -10px; */
+               margin: auto;
+               width: 280px;
+           }
+           
+           .container .pictrs-sec #rght button{
+               border: none;
+               outline: none;
+               background-color: transparent;
+               border-top: 1px solid #fff;
+               border-right: 1px solid #fff;
+               border-bottom: 1px solid #fff;
+               width: 210px;
+               height: 60px;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               font-size: 1rem;
+               margin-top: 1rem;
+               
+           }
+           .container .pictrs-sec #rght button i{
+               transform: translateX(30px);
+               font-size: 1.3rem;
+           }
+           .main .container .banr-sec{
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               gap: 3rem;
+               margin-top: 120px;
+           
+           
+           }
+   .main{
+               width: 100%;
+                /* background-color: #F9F3F3;  */
+               /* background-color: red; */
+               background-color: #f1ebe5;
+               min-height: 67vw;
+           
+   
+           }
+    .brnds-name .container .box img{
+               width: 10vw;
+               align-items: center;
+               /* padding-top: 5rem; */
+               margin: auto;
+           
+              }
+       .brnds-name{
+               background-color: #e5e5e5;
+               text-align: center;
+               margin-top: 10rem;
+               height: 40vw;
+              }
+              .brnds-name .container .box {
+                /* width:18vw; */
+                width: 20vw;
+                height: 20vw;
+                border: 1px solid gray;
+                text-align: center;
+                display: flex;
+                align-items: center;
+            
+               }
+               .container .pictrs-sec #rght .textt p{
+                font-size:1.6vw;
+                font-weight: 400;
+                color: #fff;
+                font-family: 'Courier Prime', monospace;
+                /* margin-left: 30px; */
+                width: 250px;
+                
+            } 
+            .container .pictrs-sec #rght .textt{
+                transform: translateY(180px);
+                /* float: right; */
+                text-align: center;
+                margin: auto;
+               
+            
+            }
+            .container .pictrs-sec #lft .teext{
+    
+                float: right;
+                display: flex;
+                flex-direction: column;
+                 transform: translateY(210px);
+                
+            
+            }
+  }
+/* ---------------------991-------------------------- */
+@media screen and (max-width:991px) {
+    .container .pictrs-sec #lft{
+               background-image: url(../imgaes/pic3.jpg);
+               background-size: cover;
+               background-position: center;
+               height: 400px;
+               width: 45vw;
+               transform: translateY(-40px);
+           }
+.main{
+
+            width: 100%;
+             /* background-color: #F9F3F3;  */
+            /* background-color: red; */
+            background-color: #f1ebe5;
+            min-height: 300vw;
+        
+        }
+               
+   .container .pictrs-sec #rght{
+               background-image: url(../imgaes/g2.png);
+               background-size: cover;
+               background-position: center;
+               height: 645px;
+               width: 33vw;
+               text-align: center;
+               padding: 1rem;
+               display: flex;
+               gap: 1rem;
+               padding-right: -2rem;
+               transform: translateY(-40px);
+           }
+           .container .pictrs-sec #lft .text{
+               transform: translateY(90px);
+               float: right;
+           
+           }
+           .container .pictrs-sec #lft .text p{
+               font-size:10vw;
+               font-weight: 400;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               margin-right: 80px;
+               width: 300px;
+           }
+           .container .pictrs-sec #lft button{
+               border: none;
+               outline: none;
+               background-color: transparent;
+               border-left: 1px solid #fff;
+               width: 220px;
+               height: 50px;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               font-size: 1rem;
+               margin-top: 1rem;
+               font-size: 1.3rem;
+           }
+           
+           .container .pictrs-sec #rght .text{
+               transform: translateY(370px);
+               float: right;
+           
+           }
+           .container .pictrs-sec #rght .text p{
+               font-size:20vw;
+               font-weight: 400;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               /* margin-left: -10px; */
+               margin: auto;
+               width: 280px;
+           }
+           
+           .container .pictrs-sec #rght button{
+               border: none;
+               outline: none;
+               background-color: transparent;
+               border-top: 1px solid #fff;
+               border-right: 1px solid #fff;
+               border-bottom: 1px solid #fff;
+               width: 210px;
+               height: 60px;
+               color: #fff;
+               font-family: 'Courier Prime', monospace;
+               font-size: 1rem;
+               margin-top: 1rem;
+               
+           }
+           .container .pictrs-sec #rght button i{
+               transform: translateX(30px);
+               font-size: 1.3rem;
+           }
+           .main .container .banr-sec{
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               gap: 3rem;
+               margin-top: 120px;
+           
+           
+           }
+   .main{
+               width: 100%;
+                /* background-color: #F9F3F3;  */
+               /* background-color: red; */
+               background-color: #f1ebe5;
+               min-height: 90vw;
+           
+   
+           }
+    .brnds-name .container .box img{
+               width: 10vw;
+               align-items: center;
+               /* padding-top: 5rem; */
+               margin: auto;
+           
+              }
+       .brnds-name{
+               background-color: #e5e5e5;
+               text-align: center;
+               margin-top: 10rem;
+               height: 44vw;
+              }
+              .brnds-name .container .box {
+                /* width:18vw; */
+                width: 17vw;
+                height: 21vw;
+                border: 1px solid gray;
+                text-align: center;
+                display: flex;
+                align-items: center;
+            
+               }
+               .container .pictrs-sec #rght .textt p{
+                font-size:1.6vw;
+                font-weight: 400;
+                color: #fff;
+                font-family: 'Courier Prime', monospace;
+                /* margin-left: 30px; */
+                width: 250px;
+                
+            } 
+            .container .pictrs-sec #rght .textt{
+                transform: translateY(180px);
+                /* float: right; */
+                text-align: center;
+                margin: auto;
+               
+            
+            }
+            .container .pictrs-sec #lft .teext{
+    
+                float: right;
+                display: flex;
+                flex-direction: column;
+                 transform: translateY(210px);
+                
+            
+            }
+            .container .glases-sec .glastwo {
+                width: 28vw;
+            }
+            .container .glases-sec .glastwo{
+                flex-direction: column;
+            }
+            .container .glases-sec .glastwo img{
+                width: 15vw;
+                margin: auto;
+                transform: translateY(-10px);
+            } 
+
+            
+.main .container .navbar .navbar-nav .nav-item .nav-link{
+    color:#000;
+    font-size: 1rem;
+    font-family: 'Courier Prime', monospace;
+    padding: 1rem;
+    transition: all .2s;
+    
+}
+.main .container .navbar  .icon{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.main .container .navbar .navbar-nav{
+    text-align: center;
+}
+.container .glases-sec .gl .text h4{
+    color:#a77c5a;
+    font-size: 1.2rem;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+    line-height: 2rem;
+
+}
+.container .scop-sec .inr-sec {
+    background-image: url(../imgaes/scp.png);
+    background-size: cover;
+    background-position: center;
+    width: 22vw;
+    height: 300px;
+    text-align: center;
+   }
+   .container .scop-sec #inr-secc {
+    background-image: url(../imgaes/scp1.png);
+    background-size: cover;
+    background-position: center;
+    width: 22vw;
+    height: 300px;
+    text-align: center;
+
+}
+.container .scop-sec .inr-sec  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 17vw;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110PX);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+    
+}
+.container .scop-sec #inr-secc  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 17vw;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110px);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+}
+.container .scop-sec #inr-secc  button i{
+    transform: translateX(10px);
+    font-size: 1.3rem;
+}
+.container .scop-sec .inr-sec  button i{
+    transform: translateX(10px);
+    font-size: 1.3rem;
+}
+
+}
+/* ---------------------900---------------- */
+@media screen and (max-width:768px){
+    .main{
+        width: 100%;
+         /* background-color: #F9F3F3;  */
+        /* background-color: red; */
+        background-color: #f1ebe5;
+        min-height: 83vw;
+    
+    }
+    .container .pictrs-sec #lft{
+        background-image: url(../imgaes/pic3.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 59vw;
+        transform: translateY(-80px);
+    }
+        
+.container .pictrs-sec #rght{
+        background-image: url(../imgaes/g2.png);
+        background-size: cover;
+        background-position: center;
+        height: 634px;
+        width: 29vw;
+        text-align: center;
+        padding: 1rem;
+        display: flex;
+        gap: 1rem;
+        padding-right: -2rem;
+        transform: translateY(-80px);
+    }
+
+
+    .container .glases-sec{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 7rem;
+        gap: 1rem;
+    }
+    .container .glases-sec2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 7rem;
+        gap: 4rem;
+ 
+    }
+    .brnds-name .container .box img{
+        width: 10vw;
+        align-items: center;
+        /* padding-top: 5rem; */
+        margin: auto;
+    
+       }
+.brnds-name{
+        background-color: #e5e5e5;
+        text-align: center;
+        margin-top: 10rem;
+        height: 45vw;
+       }
+       .brnds-name .container .box {
+         /* width:18vw; */
+         width: 18vw;
+         height: 21vw;
+         border: 1px solid gray;
+         text-align: center;
+         display: flex;
+         align-items: center;
+     
+        }
+        .container .scop-sec .inr-sec {
+            background-image: url(../imgaes/scp.png);
+            background-size: cover;
+            background-position: center;
+            width: 24vw;
+            height: 300px;
+            text-align: center;
+           }
+           .container .scop-sec #inr-secc {
+            background-image: url(../imgaes/scp1.png);
+            background-size: cover;
+            background-position: center;
+            width: 24vw;
+            height: 300px;
+            text-align: center;
+        
+        }
+        .container .scop-sec .inr-sec  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 17vw;
+            height: 55px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 1rem;
+            line-height: 60px;
+            transform: translateY(110PX);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+            
+        }
+        .container .scop-sec #inr-secc  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 17vw;
+            height: 55px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 1rem;
+            line-height: 60px;
+            transform: translateY(110px);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+        }
+        .container .scop-sec #inr-secc  button i{
+            transform: translateX(10px);
+            font-size: 1.3rem;
+        }
+        .container .scop-sec .inr-sec  button i{
+            transform: translateX(10px);
+            font-size: 1.3rem;
+        }
+        .main .container .banr-sec{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 3rem;
+            margin-top: 50px;
+        
+        
+        }
+       
+        
+        .container .pictrs-sec #rght .textt{
+            transform: translateY(200px);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+         
+        }
+        .container .pictrs-sec #rght .textt p{
+            font-size:2vw;
+            font-weight: 400;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            /* margin-left: -10px; */
+            margin: auto;
+            width: 200px;
+        }
+        
+        .container .pictrs-sec #rght button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border-top: 1px solid #fff;
+            border-right: 1px solid #fff;
+            border-bottom: 1px solid #fff;
+            width: 20vw;
+            height: 60px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 1rem;
+            margin-top: 2rem;
+            margin: auto;
+            
+        }
+        .container .pictrs-sec #rght button i{
+            transform: translateX(10px);
+            font-size: 1.3rem;
+        }
+        
+        }
+/* -------------------760------------- */
+@media screen and (max-width:760px){
+    .brnds-name .container .box img{
+        width: 10vw;
+        align-items: center;
+        /* padding-top: 5rem; */
+        margin: auto;
+    
+       }
+       .main{
+        width: 100%;
+         /* background-color: #F9F3F3;  */
+        /* background-color: red; */
+        background-color: #f1ebe5;
+        min-height: 90vw;
+    
+    }
+.brnds-name{
+        background-color: #e5e5e5;
+        text-align: center;
+        margin-top: 10rem;
+        height:56vw;
+       }
+       .brnds-name .container .box {
+         /* width:18vw; */
+         width: 16vw;
+         height: 21vw;
+         border: 1px solid gray;
+         text-align: center;
+         display: flex;
+         align-items: center;
+     
+        }
+        .container .scop-sec .inr-sec {
+            background-image: url(../imgaes/scp.png);
+            background-size: cover;
+            background-position: center;
+            width: 21vw;
+            height: 270px;
+            text-align: center;
+         
+           }
+           .container .scop-sec #inr-secc {
+            background-image: url(../imgaes/scp1.png);
+            background-size: cover;
+            background-position: center;
+            width: 21vw;
+            height: 270px;
+            text-align: center;
+        
+        }
+        .container .scop-sec .inr-sec  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 17vw;
+            height: 45px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 2vw;
+            line-height: 45px;
+            transform: translateY(110PX);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+            
+        }
+        .container .scop-sec #inr-secc  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 17vw;
+            height: 45px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: 2vw;
+            line-height: 45px;
+            transform: translateY(110px);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+        }
+        .container .scop-sec #inr-secc  button i{
+            transform: translateX(4px);
+            font-size: 1.3rem;
+        }
+        .container .scop-sec .inr-sec  button i{
+            transform: translateX(4px);
+            font-size: 1.3rem;
+        }
+
+        .container .pictrs-sec #rght{
+            background-image: url(../imgaes/g2.png);
+            background-size: cover;
+            background-position: center;
+            height: 710px;
+            width: 72vw;
+            text-align: center;
+            padding: 1rem;
+            display: flex;
+            gap: 1rem;
+            padding-right: -2rem;
+            transform: translateY(-80px);
+            margin: 0px auto;
+            margin-top: 9rem;
+ }
+ .container .pictrs-sec #lft{
+    background-image: url(../imgaes/pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 72vw;
+    transform: translateY(-50px);
+}
+
+   .text p{
+    font-size: .9rem;
+    color: #a77c5a;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier Prime', monospace;
+    margin-top: 6rem;
+   }
+
+   .container .pictrs-sec #lft .teext p{
+    font-size:3.4vw;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    /* margin-right: 30px; */
+    width: 280px;
+    text-align: center;
+}
+.container .pictrs-sec #lft .teext{
+    
+    float: right;
+    display: flex;
+    flex-direction: column;
+     transform: translateY(150px);
+    
+
+}
+.container .pictrs-sec #rght .textt p{
+    font-size:4vw;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    /* margin-left: 30px; */
+    width: 350px;
+    
+} 
+.container .pictrs-sec #lft button i{
+    transform: translateX(27px);
+    font-size: 1.3rem;
+}
+.container .pictrs-sec #rght .textt{
+    transform: translateY(90px);
+    /* float: right; */
+    text-align: center;
+    margin: auto;
+
+}
+.container .pictrs-sec #rght button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 38vw;
+    height: 70px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 3vw;
+    margin-top: 2rem;
+    
+    
+}
+.container .pictrs-sec #rght button:hover{
+    color: #a77c5a;
+}
+.container .pictrs-sec #rght button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+
+
+
+.container .pictrs-sec .lfft .shping{
+    margin-top: -1rem;
+}
+.container .pictrs-sec .lfft .shping{
+    text-align: center;
+    border-left: 2px solid #a77c5a;
+    height: 180px;
+    padding: 1.5rem;
+
+}
+
+.container .pictrs-sec .lfft .shping i{
+    color:#a77c5a;
+    font-size: 3vw;
+    
+}
+.container .pictrs-sec .lfft .shping h4{
+    color:#a77c5a;
+    font-size:3vw;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    line-height: 2rem;
+    
+}
+.container .pictrs-sec .lfft .shping span{
+    color:#dedede;
+    font-size: 1.2rem;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.container .pictrs-sec .lfft .shping-2{
+    text-align: center;
+    border-left: 2px solid#a77c5a;
+    border-right: 2px solid #a77c5a;
+    height: 170px;
+    padding: 1.5rem;
+
+}
+.container .pictrs-sec .lfft .shping-2{
+    width: 40vw;
+}
+.container .pictrs-sec .lfft .shping{
+    width: 27vw;
+}
+.container .pictrs-sec .lfft .shping-2 h4{
+    color:#a77c5a;
+    font-size:3vw;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    line-height: 2rem;
+    
+}
+.container .pictrs-sec .lfft .shping-2 span{
+    color:#dedede;
+    font-size: 2.6vw;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.container .glases-secc .gl .glasone .imgg{
+    width: 100px;
+    margin: auto;
+    margin-top: 10rem;
+    height: 100px;
+    
+}
+
+
+}
+   /* =-----------------------630----------------------------- */
+@media screen and (max-width:630px){
+    
+.container .glases-sec{
+    flex-direction: column;
+}
+.container .glases-sec .glastwo img{
+    width: 17vw;
+    margin: auto;
+    transform: translateY(-10px);
+    
+}
+.container .glases-sec .glastwo{
+    margin-top: 3.5rem;
+    width: 100%;
+  }
+  .container .glases-sec .glastwo img{
+    width: 30vw;
+  }
+  .container .glases-sec2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 9rem;
+    gap: 2rem;
+}
+
+
+.container .glases-sec2{
+    flex-direction: column;
+}
+
+.container .glases-sec2 .glases  img{
+    width: 30vw;
+    margin: auto;
+    /* transform: translateY(-20px); */
+    
+}
+.container .glases-sec2 .glases{
+    width: 100%;
+}
+
+
+.brnds-name .container .box img{
+    width: 13vw;
+    align-items: center;
+    /* padding-top: 5rem; */
+    margin: auto;
+
+   }
+.brnds-name{
+    background-color: #e5e5e5;
+    text-align: center;
+    margin-top: 10rem;
+    height:65vw;
+   }
+   .brnds-name .container .box {
+     /* width:18vw; */
+     width: 20vw;
+     height: 23vw;
+     border: 1px solid gray;
+     text-align: center;
+     display: flex;
+     align-items: center;
+ 
+    }
+    .container .scop-sec .inr-sec {
+        background-image: url(../imgaes/scp.png);
+        background-size: cover;
+        background-position: center;
+        width: 29vw;
+        height: 260px;
+        text-align: center;
+     
+       }
+       .container .scop-sec #inr-secc {
+        background-image: url(../imgaes/scp1.png);
+        background-size: cover;
+        background-position: center;
+        width: 29vw;
+        height: 260px;
+        text-align: center;
+       }
+       .text p{
+        font-size: .9rem;
+        color: #a77c5a;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        font-family: 'Courier Prime', monospace;
+        margin-top: 6rem;
+       }
+       .input .input-container {
+        display: -ms-flexbox; /* IE10 */
+        display: flex;
+        width: 64vw;
+        /* margin-bottom: 15px; */
+        text-align: center;
+        margin: auto;
+        margin-top: 2rem;
+      }
+      .foter-sec .container .f1{
+        width: 100%;
+      }
+      .foter-sec .container  .logo a{
+        color:#000;
+        font-size: 2rem;
+        font-family: 'Courier Prime', monospace;
+    
+    
+    }
+    .foter-sec .container  .logo a span{
+        color:#000;
+        font-size: 2.6rem;
+        font-family: 'Courier Prime', monospace;
+        font-weight: 800;
+    
+    }
+    .foter-sec .container .end  .end-right .right img{
+        margin-top: -1.2rem;
+        width: 16VW;
+      }
+      .foter-sec .container .end  .end-right .left img{
+         width: 16vw;
+      }
+      .container .scop-sec .inr-sec  button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #fff; 
+        width: 20vw;
+        height: 40px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: .8rem;
+        line-height: 40px;
+        transform: translateY(110PX);
+        margin-top: 0rem;
+        transition: all  ease .2s;
+        
+    }
+    .container .scop-sec #inr-secc  button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #fff; 
+        width: 20vw;
+        height: 40px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: .8rem;
+        line-height: 40px;
+        transform: translateY(110px);
+        margin-top: 0rem;
+        transition: all  ease .2s;
+    }
+      
+
+   }
+ 
+   
+
+
+
+
+   
+   /* =-----------------------575----------------------------- */
+@media screen and (max-width:575px){
+    
+    .container .glases-sec{
+        flex-direction: column;
+    }
+    .container .glases-sec .glastwo img{
+        width: 17vw;
+        margin: auto;
+        transform: translateY(-10px);
+        
+    }
+    .container .glases-sec .glastwo{
+        margin-top: 3.5rem;
+        width: 100%;
+      }
+      .container .glases-sec .glastwo img{
+        width: 30vw;
+      }
+      .container .glases-sec2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-between;
+        text-align: center;
+        margin-top: 9rem;
+        gap: 2rem;
+    }
+    
+    
+    .container .glases-sec2{
+        flex-direction: column;
+    }
+    
+    .container .glases-sec2 .glases  img{
+        width: 30vw;
+        margin: auto;
+        /* transform: translateY(-20px); */
+        
+    }
+    .container .glases-sec2 .glases{
+        width: 100%;
+    }
+    
+    
+    .brnds-name .container .box img{
+        width: 13vw;
+        align-items: center;
+        /* padding-top: 5rem; */
+        margin: auto;
+    
+       }
+    .brnds-name{
+        background-color: #e5e5e5;
+        text-align: center;
+        margin-top: 10rem;
+        height:65vw;
+       }
+       .brnds-name .container .box {
+         /* width:18vw; */
+         width: 20vw;
+         height: 23vw;
+         border: 1px solid gray;
+         text-align: center;
+         display: flex;
+         align-items: center;
+     
+        }
+        .container .scop-sec .inr-sec {
+            background-image: url(../imgaes/scp.png);
+            background-size: cover;
+            background-position: center;
+            width: 29vw;
+            height: 260px;
+            text-align: center;
+         
+           }
+           .container .scop-sec #inr-secc {
+            background-image: url(../imgaes/scp1.png);
+            background-size: cover;
+            background-position: center;
+            width: 29vw;
+            height: 260px;
+            text-align: center;
+           }
+           .text p{
+            font-size: .9rem;
+            color: #a77c5a;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            font-family: 'Courier Prime', monospace;
+            margin-top: 6rem;
+           }
+           .input .input-container {
+            display: -ms-flexbox; /* IE10 */
+            display: flex;
+            width: 64vw;
+            /* margin-bottom: 15px; */
+            text-align: center;
+            margin: auto;
+            margin-top: 2rem;
+          }
+          .foter-sec .container .f1{
+            width: 100%;
+          }
+          .foter-sec .container  .logo a{
+            color:#000;
+            font-size: 2rem;
+            font-family: 'Courier Prime', monospace;
+        
+        
+        }
+        .foter-sec .container  .logo a span{
+            color:#000;
+            font-size: 2.6rem;
+            font-family: 'Courier Prime', monospace;
+            font-weight: 800;
+        
+        }
+        .foter-sec .container .end  .end-right .right img{
+            margin-top: -1.2rem;
+            width: 16VW;
+          }
+          .foter-sec .container .end  .end-right .left img{
+             width: 16vw;
+          }
+          .container .scop-sec .inr-sec  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 20vw;
+            height: 40px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: .8rem;
+            line-height: 40px;
+            transform: translateY(110PX);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+            
+        }
+        .container .scop-sec #inr-secc  button{
+            border: none;
+            outline: none;
+            background-color: transparent;
+            border: 1px solid #fff; 
+            width: 20vw;
+            height: 40px;
+            color: #fff;
+            font-family: 'Courier Prime', monospace;
+            font-size: .8rem;
+            line-height: 40px;
+            transform: translateY(110px);
+            margin-top: 0rem;
+            transition: all  ease .2s;
+        }
+        .container .pictrs-sec #rght{
+            background-image: url(../imgaes/g2.png);
+            background-size: cover;
+            background-position: center;
+            height: 510px;
+             width: 72vw; 
+            /* width: 100%; */
+            text-align: center;
+            padding: 1rem;
+            display: flex;
+            gap: 1rem;
+            padding-right: -2rem;
+            transform: translateY(-80px);
+            margin: 0px auto;
+            margin-top: 9rem;
+ }
+ .container .pictrs-sec #lft{
+    background-image: url(../imgaes/pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* width: 95vw; */
+    width: 100%;
+    transform: translateY(-30px);
+}
+.main .container .banr-sec .left img{
+    width: 40vw;
+    position: relative;
+    top: 2.6rem;
+
+    
+
+}
+
+.container .pictrs-sec .shping{
+    text-align: center;
+    margin: auto;
+    width:100%;
+}
+
+.container .pictrs-sec .shping-2{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+
+
+}
+.container .pictrs-sec #top{
+    margin-top: 3rem;
+}
+.container .pictrs-sec .lfft .shping{
+    text-align: center;
+    border-left: 2px solid#a77c5a;
+    border-right: 2px solid #a77c5a;
+    height: 150px;
+    padding: 1.5rem;
+    width: 40vw;
+
+}
+.container .pictrs-sec .lfft .shping-2{
+    text-align: center;
+    border-left: 2px solid#a77c5a;
+    border-right: 2px solid #a77c5a;
+    height: 150px;
+    padding: 1.5rem;
+    width: 40vw;
+
+}
+.container .pictrs-sec .lfft .shping-2 h4{
+    color:#a77c5a;
+    font-size:3vw;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    line-height: 4vw;
+    
+}
+.container .pictrs-sec .lfft .shping-2 span{
+    color:#dedede;
+    font-size: 1rem;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.container .pictrs-sec .lfft .shping span{
+    color:#dedede;
+    font-size: 1rem;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+}
+.main{
+    width: 100%;
+     /* background-color: #F9F3F3;  */
+    /* background-color: red; */
+    background-color: #f1ebe5;
+    height: 100vw;
+
+}
+
+.main .container .navbar .navbar-nav .nav-item .nav-link{
+    color:#000;
+    font-size: .8rem;
+    font-family: 'Courier Prime', monospace;
+    padding: .5em;
+    transition: all .2s;
+    
+}
+.main .container .navbar .icon{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.main .container .navbar .icon i{
+    font-size: 1.3rem;
+    cursor: pointer;
+    color:#D78C91;
+
+}
+.main .container .navbar .icon a span{
+    /* color:#D78C91;
+    color: #a77c5a; */
+    color:#000;
+    font-size: 1rem;
+    font-family: 'Courier Prime', monospace;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding-left: 10px;
+    
+
+}  
+.main .container .navbar .icon img{
+    width: 17px;
+}
+.brnds-name{
+    background-color: #e5e5e5;
+    text-align: center;
+    margin-top: 10rem;
+    min-height: 290vw;
+}
+.brnds-name .container .box {
+    /* width:18vw; */
+    width: 50%;
+    height: 45vw;
+    border: 1px solid gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 40px;
+
+   }
+.brnds-name .container .box img{
+    width: 170px;
+    align-items: center;
+    /* padding-top: 5rem; */
+    margin: auto;
+
+   }
+   .brnds-name .container #bx1{
+    padding-top: 3rem;
+   }
+   .container .scop-sec .inr-sec {
+    background-image: url(../imgaes/scp.png);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+   }
+   .container .scop-sec .inr-sec P {
+    font-size:4vw;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 400;
+   }
+
+   .container .scop-sec .inr-sec  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 230px;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110PX);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+    
+}
+.container .scop-sec #scop{
+    margin-top: 2rem;
+}
+   .container .scop-sec #inr-secc {
+    background-image: url(../imgaes/scp1.png);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+
+
+   }
+   .container .scop-sec #inr-secc P {
+    font-size: 4vw;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+   }
+
+   .container .scop-sec #inr-secc  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 230px;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110px);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+   }
+
+   .container .pictrs-sec #lft .teext{
+    
+    float: right;
+    display: flex;
+    flex-direction: column;
+     transform: translateY(110px);
+
+}
+
+.foter-sec .container .f1{
+    margin: auto;
+    text-align: center;
+}
+.foter-sec .container .f1 .ul{
+    padding-top: .1rem;
+  }
+  .foter-sec .container  .logo a{
+    color:#000;
+    font-size: 2rem;
+    font-family: 'Courier Prime', monospace;
+
+
+}
+.foter-sec .container  .logo a span{
+    color:#000;
+    font-size: 2.6rem;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 800;
+
+}
+.foter-sec .container .f1 ul{
+    margin-top: 1.3rem;
+  }
+  .foter-sec .container #ul-2{
+    margin-top: -2rem;
+  }
+  .main .container .navbar {
+    transform: translatey(5px);
+}
+
+.container .pictrs-sec #rght .textt p{
+    font-size:3.4vw;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    /* margin-left: 30px; */
+    width: 300px;
+    
+} 
+.container .pictrs-sec #rght button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 45vw;
+    height: 56px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    margin-top: 2rem;
+    
+    
+}
+
+.container .pictrs-sec #lft button{
+  font-size: 3.2vw;
+    
+}
+    }
+
+    /* ---------------440---------------- */
+    @media screen and (max-width:440px){
+       
+ .main{
+        width: 100%;
+         /* background-color: #F9F3F3;  */
+        /* background-color: red; */
+        background-color: #f1ebe5;
+        height: 130vw;
+    
+    }
+    .brnds-name{
+        background-color: #e5e5e5;
+        text-align: center;
+        margin-top: 10rem;
+        min-height: 295vw;
+    }
+    .brnds-name .container .box {
+        /* width:18vw; */
+        width: 50%;
+        height: 45vw;
+        border: 1px solid gray;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        margin-top: 20px;
+    
+       }
+       .brnds-name .container .box img{
+        width: 130px;
+       }
+    .container .pictrs-sec #rght .textt p{
+        font-size:3vw;
+        font-weight: 400;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        /* margin-left: 30px; */
+        width: 250px;
+        
+    } 
+    .input .input-container {
+        display: -ms-flexbox; /* IE10 */
+        display: flex;
+        width: 70vw;
+        /* margin-bottom: 15px; */
+        text-align: center;
+        margin: auto;
+        height: 12vw;
+      }
+      .input .input-container .input-field{
+        font-size: .9rem;
+      }
+      .input .input-container .input-field::placeholder{
+        padding-left: 1.5rem;
+      }
+      .container .pictrs-sec #rght button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border-top: 1px solid #fff;
+        border-right: 1px solid #fff;
+        border-bottom: 1px solid #fff;
+        width: 53vw;
+        height: 50px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1rem;
+        margin-top: 2rem;
+        
+        
+    }
+    .container .pictrs-sec #lft .teext p{
+        font-size:3vw;
+        font-weight: 400;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        /* margin-right: 30px; */
+        width: 300px;
+        text-align: center;
+    }
+    .container .pictrs-sec #lft .teext p{
+        font-size: 4vw;
+    }
+    
+}
+/* --------------380--------------- */
+
+@media screen and (max-width:380px){
+    .container .scop-sec .inr-sec {
+        background-image: url(../imgaes/scp.png);
+        background-size: cover;
+        background-position: center;
+        width: 86vw;
+        height: 300px;
+        text-align: center;
+        margin: auto;
+       }
+       .container .scop-sec .inr-sec P {
+        font-size:4.4vw;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-weight: 400;
+       }
+    
+       .container .scop-sec .inr-sec  button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #fff; 
+        width: 210px;
+        height: 50px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1rem;
+        line-height: 50px;
+        transform: translateY(110PX);
+        margin-top: 0rem;
+        transition: all  ease .2s;
+        
+    }
+    .container .scop-sec #scop{
+        margin-top: 2rem;
+    }
+       .container .scop-sec #inr-secc {
+        background-image: url(../imgaes/scp1.png);
+        background-size: cover;
+        background-position: center;
+        width: 86vw;
+        height: 300px;
+        text-align: center;
+        margin: auto;
+        margin-top: 2rem;
+    
+    
+       }
+       .container .scop-sec #inr-secc P {
+        font-size: 4.7vw;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+       }
+    
+       .container .scop-sec #inr-secc  button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #fff; 
+        width: 210px;
+        height: 50px;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1rem;
+        line-height: 50px;
+        transform: translateY(110px);
+        margin-top: 0rem;
+        transition: all  ease .2s;
+       }
+       .container .pictrs-sec #rght .textt p{
+        font-size:3.6vw;
+        font-weight: 400;
+        color: #fff;
+        font-family: 'Courier Prime', monospace;
+        /* margin-left: 30px; */
+        width: 200px;
+        
+    } 
+    .main .container .navbar .navbar-brand{
+        color:#000;
+        font-size: 2rem;
+        font-family: 'Courier Prime', monospace;
+    
+    
+    }
+    .main .container .navbar .navbar-brand span{
+        color:#000;
+        font-size: 2.1rem;
+        font-family: 'Courier Prime', monospace;
+        font-weight: 800;
+        transition: all .3s ease;
+    
+    }
+
+
+}

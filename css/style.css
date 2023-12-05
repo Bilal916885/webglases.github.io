@@ -1,0 +1,864 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+body{
+    width: 100%;
+}
+/* ------------------------header sec ---------------------*/
+.main{
+    width: 100%;
+     /* background-color: #F9F3F3;  */
+    /* background-color: red; */
+    background-color: #f1ebe5;
+    min-height: 64vw;
+
+}
+ /* .main .rotate p{
+    transform: rotate(90deg);
+    margin-left: 30px;
+ } */
+.main .container .navbar{
+    width: 100%;
+}
+.main .container .navbar .navbar-brand{
+    color:#000;
+    font-size: 2.6rem;
+    font-family: 'Courier Prime', monospace;
+
+
+}
+.main .container .navbar .navbar-brand span{
+    color:#000;
+    font-size: 2.6rem;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 800;
+    transition: all .3s ease;
+
+}
+.main .container .navbar .navbar-brand span:hover{
+    color: #a77c5a;
+}
+.main .container .navbar {
+    transform: translatey(25px);
+}
+.main .container .navbar .navbar-toggler-icon{
+    color: #fff;
+    border: none;
+}
+.main .container .navbar .navbar-toggler-icon:hover{
+    background-color: none;
+}
+
+.main .container .navbar .navbar-nav .nav-item .nav-link{
+    color:#000;
+    font-size: 1rem;
+    font-family: 'Courier Prime', monospace;
+    padding: 1rem;
+    transition: all .2s;
+    
+}
+.main .container .navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #a77c5a;
+}
+.main .container .navbar .icon{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.main .container .navbar .icon i{
+    font-size: 1.3rem;
+    cursor: pointer;
+    color:#D78C91;
+
+}
+.main .container .navbar .icon a span{
+    /* color:#D78C91;
+    color: #a77c5a; */
+    color:#000;
+    font-size: 1.2rem;
+    font-family: 'Courier Prime', monospace;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding-left: 10px;
+    
+
+}
+.main .container .navbar .icon a span:hover{
+    color: #a77c5a;
+}
+
+/* ---------------bnr sec------------------ */
+.main .container .banr-sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 140px;
+
+
+}
+.main .container .banr-sec .left img{
+    width: 40vw;
+    position: relative;
+    top: 2.4rem;
+
+    
+
+}
+.main .container .banr-sec .left h6{
+    color:#000;
+    font-size: 10vw;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+    letter-spacing: 20px;
+    font-weight: 600;
+    transform:translatey(30px);
+    
+
+}
+.main .container .banr-sec .left h6 span{
+    font-weight: 200;
+    
+}
+.main .container .banr-sec .right img{
+    width: 38vw;
+    position: relative;
+    top: 3rem;
+    
+
+}
+.main .container .banr-sec .right h6{
+    color:#000;
+    font-size: 10.5vw;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+    letter-spacing: 20px;
+    font-weight: 600;
+    transform:translatey(50px);
+    
+
+}
+.main .container .banr-sec .right h6 span{
+    font-weight: 200;
+
+    
+}
+/* -------bnr-text----------- */
+.main .container .bnr-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 7rem;
+   margin-top: 100px;
+
+    
+
+
+}
+.main .container .bnr-text .left{
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+    transform: translateX(10px);
+}
+.main .container .bnr-text .left a{
+    color:#D78C91;
+    color: #a77c5a; 
+    font-size: 1.5vw;
+    font-family: 'Courier Prime', monospace;
+
+}
+
+.line{
+    width: 2px;
+    height: 13px;
+    background-color:#a77c5a;
+    color: #a77c5a; 
+}
+.main .container .bnr-text .right{
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+}
+.main .container .bnr-text .right a{
+    color:#D78C91;
+    color: #a77c5a; 
+    font-size: 1.5vw;
+    font-family: 'Courier Prime', monospace;
+
+}
+
+.line{
+    width: 2px;
+    height: 13px;
+    background-color:#a77c5a;
+    color: #a77c5a; 
+    
+}
+/* ------------------pictrs-sec---------------------------------- */
+.container .pictrs-sec #lft{
+    background-image: url(../imgaes/pic3.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 53vw;
+    transform: translateY(-80px);
+
+}
+.container .pictrs-sec #lft .teext{
+    
+    float: right;
+    display: flex;
+    flex-direction: column;
+     transform: translateY(140px);
+    
+
+}
+ .container .pictrs-sec #lft .teext p{
+    font-size:1.6vw;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    /* margin-right: 30px; */
+    width: 280px;
+    text-align: center;
+}
+
+
+
+
+.container .pictrs-sec #lft button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-left: 1px solid #fff;
+    width: 210px;
+    height: 50px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    float: right;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    
+    
+}
+.container .pictrs-sec #lft button:hover{
+    color: #a77c5a;
+}
+.container .pictrs-sec #lft button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+
+
+
+.container .pictrs-sec .lfft .shping{
+    margin-top: -1rem;
+}
+.container .pictrs-sec .lfft .shping{
+    text-align: center;
+    border-left: 2px solid #a77c5a;
+    height: 140px;
+    padding: 1.5rem;
+
+}
+
+.container .pictrs-sec .lfft .shping i{
+    color:#a77c5a;
+    font-size: 1.5rem;
+    
+}
+.container .pictrs-sec .lfft .shping h4{
+    color:#a77c5a;
+    font-size:2vw;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.container .pictrs-sec .lfft .shping span{
+    color:#dedede;
+    font-size: 1.2rem;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+
+
+
+
+.container .pictrs-sec .lfft .shping-2{
+    margin-top: -1rem;
+}
+.container .pictrs-sec .lfft .shping-2{
+    text-align: center;
+    border-left: 2px solid#a77c5a;
+    border-right: 2px solid #a77c5a;
+    height: 140px;
+    padding: 1.5rem;
+
+}
+
+.container .pictrs-sec .lfft .shping-2 i{
+    color:#D78C91;
+    font-size: 1.5rem;
+    
+}
+.container .pictrs-sec .lfft .shping-2 h4{
+    color:#a77c5a;
+    font-size:2vw;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.container .pictrs-sec .lfft .shping-2 span{
+    color:#dedede;
+    font-size: 1.2rem;
+    padding-top: .4rem;
+    font-family: 'Courier Prime', monospace;
+    
+}
+
+
+
+
+
+
+/* ----------------right----------- */
+
+
+.container .pictrs-sec #rght{
+    background-image: url(../imgaes/g2.png);
+    background-size: cover;
+    background-position: center;
+    height: 45vw;
+    width: 30vw;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    padding-right: -2rem;
+    transform: translateY(-80px);
+}
+
+.container .pictrs-sec #rght .textt{
+    transform: translateY(130px);
+    /* float: right; */
+    text-align: center;
+    margin: auto;
+
+}
+.container .pictrs-sec #rght .textt p{
+    font-size:1.6vw;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    /* margin-left: 30px; */
+    width: 300px;
+    
+} 
+.container .pictrs-sec #rght button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 210px;
+    height: 60px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    margin-top: 1rem;
+    
+    
+}
+.container .pictrs-sec #rght button:hover{
+    color: #a77c5a;
+}
+.container .pictrs-sec #rght button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+
+/* ---------------------glases-sec----------------------- */
+.container .glases-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 3rem;
+}
+.container .glases-sec .gl{ 
+    /* display: flex; */
+    /* width: 25%;  */
+    text-align: center;
+}
+.container .glases-sec .gl .text h4{
+    color:#a77c5a;
+    font-size: 1.2rem;
+    padding-top: .9rem;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+
+
+}
+.container .glases-sec  span{
+ font-size: 1rem;
+ color: #dedede;
+ font-family: 'Courier Prime', monospace;
+
+
+} 
+.container .glases-sec .gl p{
+    font-size: 1.5rem;
+    color: #121212;
+    font-weight: bold;
+    font-family: 'Courier Prime', monospace;
+    margin-top: 1rem;
+   
+   
+   } 
+   
+
+ 
+ 
+
+.container .glases-sec .glastwo img{
+    width: 100px;
+}
+.container .glases-sec .glastwo{
+    /* width: 25%; */
+    text-align: center;
+}
+.container .glases-sec .glastwo h4{
+    color:#a77c5a;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+
+}
+.container .glases-sec  span{
+    font-size: 1rem;
+    color: #dedede;
+    font-family: 'Courier Prime', monospace;
+   
+   
+   } 
+   .container .glases-sec p{
+       font-size: 1.5rem;
+       color: #121212;
+       font-weight: bold;
+       font-family: 'Courier Prime', monospace;
+      
+      
+      }
+      .container .glases-sec .glastwo{
+        margin-top: -4rem;
+      }
+      .container .glases-sec .glastwo img{
+        width: 17vw;
+        margin: auto;
+        transform: translateY(-10px);
+        
+    }
+
+.container .butn button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #000;
+        width: 320px;
+        height: 64px;
+        color: #000;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1.1rem;
+        line-height: 68px;
+        font-weight: 800;
+        margin-top: 3rem;
+        
+    }
+    .container .butn{
+        margin: auto;
+        text-align: center;
+    }
+
+    .container .butn button i{
+        transform: translateX(50px);
+        font-size: 1.3rem;
+    }
+    .container .butn button:hover{
+        color: #a77c5a;
+    }
+/* ------------------------glases-sec2----------------------------- */
+.container .glases-sec2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 9rem;
+    gap: 2.3rem;
+}
+    
+.container .glases-sec2 .glases h4{
+    color:#a77c5a;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+
+}
+.container .glases-sec2 .glases  span{
+    font-size: 1rem;
+    color: #dedede;
+    font-family: 'Courier Prime', monospace;
+   
+   
+   } 
+   .container .glases-sec2 .glases  p{
+       font-size: 1.5rem;
+       color: #121212;
+       font-weight: bold;
+       font-family: 'Courier Prime', monospace;
+      
+      
+      }
+      .container .glases-sec2 .glases  img{
+        width: 17vw;
+        margin: auto;
+        /* transform: translateY(-20px); */
+        
+    }
+    .container .butn2 button{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        border: 1px solid #000; 
+        width: 320px;
+        height: 64px;
+        color: #000;
+        font-family: 'Courier Prime', monospace;
+        font-size: 1.1rem;
+        line-height: 68px;
+        font-weight: 800;
+        margin-top: 5rem;
+        
+    }
+    .container .butn2{
+        margin: auto;
+        text-align: center;
+    }
+
+    .container .butn2 button i{
+        transform: translateX(50px);
+        font-size: 1.3rem;
+    }
+    .container .butn2 button:hover{
+        color: #a77c5a;
+    }
+    
+    /* -------------brnds-name-------------------------------- */
+    .brnds-name{
+    background-color: #e5e5e5;
+    text-align: center;
+    margin-top: 10rem;
+    height: 36vw;
+   }
+.brnds-name .container .box {
+    /* width:18vw; */
+    width: 19vw;
+    height: 18.6vw;
+    border: 1px solid gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+   }
+.brnds-name .container .box img{
+    width: 150px;
+    align-items: center;
+    /* padding-top: 5rem; */
+    margin: auto;
+
+   }
+   .brnds-name .container p{
+
+    font-size: 1.2rem;
+    color: #a77c5a;
+    margin-top: 1rem;
+    font-family: 'Courier Prime', monospace;
+
+
+   }
+   .brnds-name .container .box {
+    margin-top: 6rem;
+   }
+   /* ----------------------------scop-sec----------------------- */
+   .container .scop-sec{
+    margin-top: 7rem;
+   }
+   .container .scop-sec .inr-sec {
+    background-image: url(../imgaes/scp.png);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+   }
+   .container .scop-sec .inr-sec P,.buttn{
+    text-align: center;
+    transform: translateY(100PX);
+    
+   }
+   .container .scop-sec .inr-sec P {
+    font-size:2vw;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+   }
+
+   .container .scop-sec .inr-sec  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 230px;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110PX);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+    
+}
+.container .scop-sec .inr-sec  .buttun{
+    margin: auto;
+    text-align: center;
+}
+
+.container .scop-sec .inr-sec  button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+
+   
+   .container .scop-sec #inr-secc {
+    background-image: url(../imgaes/scp1.png);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+
+   }
+   .container .scop-sec .inr-sec  button:hover{
+    color: #000;
+   }
+   .container .scop-sec #inr-secc P,.buttn{
+    text-align: center;
+    transform: translateY(100PX); 
+    
+   }
+   /* .container .scop-sec #inr-secc button{
+    text-align: center;
+    transform: translateY(300PX);
+    
+   } */
+   .container .scop-sec #inr-secc P {
+    font-size: 2vw;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+   }
+
+   .container .scop-sec #inr-secc  button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff; 
+    width: 230px;
+    height: 55px;
+    color: #fff;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    line-height: 60px;
+    transform: translateY(110px);
+    margin-top: 0rem;
+    transition: all  ease .2s;
+}
+.container .scop-sec #inr-secc  button:hover{
+    color: #000;
+}
+.container .scop-sec #inr-secc  .buttun{
+    margin: auto;
+    text-align: center;
+}
+
+.container .scop-sec #inr-secc  button i{
+    transform: translateX(30px);
+    font-size: 1.3rem;
+}
+
+   /* -------------input------------ */
+   .text p{
+    font-size: .9rem;
+    color: #a77c5a;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier Prime', monospace;
+    margin-top: 6rem;
+   }
+   .input {
+    margin-top: 2rem;
+   }
+  .input .input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 36vw;
+    /* margin-bottom: 15px; */
+    text-align: center;
+    margin: auto;
+  }
+  
+  .input .input-container i {
+    padding: 10px;
+    background:#f1ebe5;
+    color: #a77c5a;
+    min-width: 55px;
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .input .input-container .input-field {
+    width: 100%;
+    padding: 14px;
+    outline: none;
+    font-size: 1rem;
+    color: #000;
+    border-color: #a77c5a;
+    font-weight: 400;
+    font-family: 'Courier Prime', monospace;
+    border-color: #a77c5a;
+    
+    
+  }
+  .input .input-container .input-field::placeholder{
+    padding-left: 2rem;
+  }
+  
+  .input .input-container  .input-field:focus {
+    border: 2px solid #dedede;
+  }
+  /* --------------------------------foter-sec---------------------------------- */
+   .foter-sec{
+    background-color: #f1ebe5;
+    margin-top: 7rem;
+
+  }
+   .foter-sec .container .f1 p{
+    font-size: 3rem;
+    color: #D78C91;
+    font-weight: 700;
+    font-family: 'Courier Prime', monospace;
+
+    
+  }
+  .foter-sec .container .f1 ul{
+    margin-top: 3rem;
+  }
+  .foter-sec .container .f1{
+    padding-top: 3.8rem;
+  }
+  .foter-sec .container .f1 .ul{
+    padding-top: 1.9rem;
+  }
+   .foter-sec .container .f1 p span{
+    font-weight: 300;
+    font-family: 'Courier Prime', monospace;
+  }
+  .foter-sec .container .f1 ul li{
+    list-style: none;
+    font-size: 1rem;
+    color: gray;
+    font-family: 'Courier Prime', monospace;
+    cursor: pointer;
+
+  }
+  
+  .foter-sec .container  .lne{
+    width: 100%;
+    height: 1px;
+    background-color: #a77c5a;
+    margin-top: 1rem;
+  }
+
+
+
+
+  .foter-sec .container .end{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+  .foter-sec .container .end  .end-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  .foter-sec .container .end  .end-right .left h4{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+  }
+  .foter-sec .container .end  .end-right .left i{
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    color: #D78C91;
+    cursor: pointer;
+  }
+
+  .foter-sec .container .end  .end-right .right h4{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+  }
+  .foter-sec .container .end  .end-right .right i{
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    color: #D78C91;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    padding-left: 5rem;
+  }
+  .foter-sec .container .end  .end-right .right img{
+    margin-top: -1.2rem;
+  }
+
+  .foter-sec .container .end  .end-right .left h4 span{
+    font-weight: 300;
+  }
+
+  .foter-sec .container  .logo a{
+    color:#000;
+    font-size: 2.6rem;
+    font-family: 'Courier Prime', monospace;
+
+
+}
+.foter-sec .container  .logo a span{
+    color:#000;
+    font-size: 3rem;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 800;
+
+}
